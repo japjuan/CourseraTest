@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Nuestro primer proyecto",
   "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": { 
+  "dev": "lite-server",
+  "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/japjuan/CourseraTest/issues"
   },
-  "homepage": "https://github.com/japjuan/CourseraTest#readme"
+  "homepage": "https://github.com/japjuan/CourseraTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
