@@ -1,0 +1,19 @@
+{
+  "name": "proyectonuevo",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japjuan/CourseraTest.git"
+  },
+  "author": "Juan Andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japjuan/CourseraTest/issues"
+  },
+  "homepage": "https://github.com/japjuan/CourseraTest#readme"
+}
