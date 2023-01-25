@@ -1,0 +1,19 @@
+h4{
+    font-weight: bold;
+}
+
+footer{
+    background-color: lightgrey;
+}
+
+.product-card{
+    display:flex;
+    flex-wrap: wrap;
+    width:250px;
+    padding-bottom: 5%;
+}
+
+.btn{
+    height: 40px;
+    align-self: flex-end;
+}
